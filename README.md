@@ -1,5 +1,3 @@
-# 💫 About Me:
- 🌱 I am studying information technology
 
 
 # 💻 Tech Stack:
